@@ -5,6 +5,7 @@
 #include <map>
 #include <vector>
 
+//Hi :)
 // Wi-Fi credentials for ESP32 as AP
 const char* ssid = "GooseNetwork";
 const char* password = "honk";
